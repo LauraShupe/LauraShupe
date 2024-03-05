@@ -1,7 +1,10 @@
 <h1>Hi, I'm Laura! <br/><a href="https://www.linkedin.com/in/laura-shupe-cyber/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 FullStack Academy Capstone Project:</h2>
-  - [Elastic SIEM Runbook](https://github.com/LauraShupe/Elastic-Cloud-SIEM)
+
+- [Elastic SIEM Runbook](https://github.com/LauraShupe/Elastic-Cloud-SIEM)
+
+
 
 <h2> Side Projects </h2>
 
