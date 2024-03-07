@@ -6,6 +6,8 @@
 
 - [UTM | Apple Silicone | Linux Virtualization](https://github.com/LauraShupe/UTM-Apple-Silicone-Linux-Virtualization)
 
+- [BeEF (Browser Exploitation Framework) Runbook](https://github.com/LauraShupe/BeEF-Browser-Exploitation-Framework-Runbook)
+
 
 
 <h2> Side Projects </h2>
