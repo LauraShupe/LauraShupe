@@ -8,8 +8,11 @@
 
 <h2> Side Projects </h2>
 
-- <b>Python</b>
+- <b>C++</b>
   - [Raw AncestryDNA Reader]
+ 
+- <b>Python</b>
+  - [Password Tester]
  
 
 <h2>👨‍💻⚔️ Penetration Testing Labs:</h2>
