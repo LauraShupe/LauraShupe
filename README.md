@@ -8,6 +8,8 @@
 
 - [BeEF (Browser Exploitation Framework) Runbook](https://github.com/LauraShupe/BeEF-Browser-Exploitation-Framework-Runbook)
 
+- [NMAP Runbook](https://github.com/LauraShupe/NMAP-Runbook)
+
 
 
 <h2> Side Projects </h2>
