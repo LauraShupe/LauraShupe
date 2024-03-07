@@ -10,6 +10,8 @@
 
 - [NMAP Runbook](https://github.com/LauraShupe/NMAP-Runbook)
 
+- [Fullstack Capstone Project Youtube Video](https://youtu.be/0eWU237g7WY)
+
 
 
 <h2> Side Projects </h2>
