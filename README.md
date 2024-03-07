@@ -21,7 +21,7 @@
  
   - [CompTIA Security+ SY0-701](https://www.credly.com/badges/e9f2f87b-cf77-4312-a8aa-d9a4a3d13160/public_url)
 
-  - [Fullstack Cybersecurity Analytics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Fullstack Cybersecurity Analytics](https://github.com/LauraShupe/Certifications/blob/3ac22561c658ad76f21abc9e43eca99dee1aa91f/9%20CYB%20LAURA.pdf)
 
   - [CompTIA CySA+ CS0-003 (in-progress: Expected April 2024)]
 
