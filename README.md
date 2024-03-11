@@ -25,7 +25,7 @@
 
 <h2>👨‍💻⚔️ Penetration Testing Labs:</h2>
 
-  - [Nmap & Metasploit: Stackfull Software Report](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
+  - [Nmap & Metasploit: Stackfull Software Report](https://drive.google.com/file/d/1KiYlIKf_l9rdNOurQzdRxPgMH2lz1XKk/view?usp=sharing)
 
    
 <h2>🧑‍🎓📑 Certifications:</h2>
